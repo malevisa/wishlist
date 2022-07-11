@@ -1,0 +1,122 @@
+[
+    {
+        "nome": "Cadeira gamer",
+        "valor": 2300.00
+    },
+    {
+        "nome": "teclado gamer",
+        "valor": 230.00
+    },
+    {
+        "nome": "Mouse gamer",
+        "valor": 80.00
+    },
+    {
+        "nome": "Monitor gamer",
+        "valor": 330.00
+    },
+    {
+        "nome": "MousePad gamer",
+        "valor": 30.00
+    },
+    {
+        "nome": "Celular",
+        "valor": 1000.00
+    },
+    {
+        "nome": "Notebook",
+        "valor": 2000.00
+    },
+    {
+        "nome": "Geladeira",
+        "valor": 2500.00
+    },
+    {
+        "nome": "Bola de futebol",
+        "valor": 50.00
+    },
+    {
+        "nome": "Televisão",
+        "valor": 230.00
+    },
+    {
+        "nome": "Cooler",
+        "valor": 80.00
+    },
+    {
+        "nome": "Guarda-roupa 8 portas",
+        "valor": 700.00
+    },
+    {
+        "nome": "Violão",
+        "valor": 550.00
+    },
+    {
+        "nome": "Iphone X",
+        "valor": 2200.00
+    },
+    {
+        "nome": "Ipad",
+        "valor": 2000.00
+    },
+    {
+        "nome": "Tablet",
+        "valor": 350.00
+    },
+    {
+        "nome": "Mesa de centro",
+        "valor": 400.00
+    },
+    {
+        "nome": "Mesa jantar",
+        "valor": 600.00
+    },
+    {
+        "nome": "Cama solteiro",
+        "valor": 500.00
+    },
+    {
+        "nome": "Cama Casal",
+        "valor": 700.00
+    },
+    {
+        "nome": "Sofá",
+        "valor": 850.00
+    },
+    {
+        "nome": "Escrivaninha de escritório",
+        "valor": 230.00
+    },
+    {
+        "nome": "Fone JBL",
+        "valor": 200.00
+    },
+    {
+        "nome": "Xbox One",
+        "valor": 2300.00
+    },
+    {
+        "nome": "Xbox Series X",
+        "valor": 3230.00
+    },
+    {
+        "nome": "Playtation 4",
+        "valor": 4230.00
+    },
+    {
+        "nome": "Playstation 5",
+        "valor": 5230.00
+    },
+    {
+        "nome": "Livro",
+        "valor": 30.00
+    },
+    {
+        "nome": "kit panelas",
+        "valor": 130.00
+    },
+    {
+        "nome": "Fogão",
+        "valor": 530.00
+    }
+]
